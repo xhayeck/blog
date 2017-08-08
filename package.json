@@ -1,0 +1,27 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xhayeck/blog.git"
+  },
+  "author": "Xavier Hayeck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xhayeck/blog/issues"
+  },
+  "homepage": "https://github.com/xhayeck/blog#readme",
+  "devDependencies": {
+    "webpack": "^3.4.1",
+    "webpack-dev-server": "^2.6.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
